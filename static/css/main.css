@@ -18,7 +18,7 @@
     position: relative;
     padding: 10rem 0;
     overflow: hidden;
-    background-position: center 32%;
+    background-position: center 34%;
     background-size: cover;
     background-repeat: no-repeat;
     height: clamp(32rem, 72vh, 54rem);
@@ -103,7 +103,7 @@ section .main-body{
 #avatar {
     position: absolute;
     left: 50%;
-    top: 76%;
+    top: 79%;
     transform: translate(-50%, -50%);
     z-index: 4;
     pointer-events: none;
@@ -120,7 +120,7 @@ section .main-body{
 @media screen and (max-width: 991px) {
     #avatar {
         left: 50%;
-        top: 73%;
+        top: 76%;
     }
 }
 
@@ -128,11 +128,11 @@ section .main-body{
     .top-section {
         height: clamp(30rem, 82vh, 46rem);
         min-height: 30rem;
-        background-position: center 28%;
+        background-position: center 30%;
     }
 
     #avatar {
-        top: 70%;
+        top: 73%;
     }
 
     #avatar img {

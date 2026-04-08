@@ -17,6 +17,7 @@
 .top-section {
     position: relative;
     padding: 10rem 0;
+    overflow: hidden;
     background-position: center 44%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -32,7 +33,7 @@
 
 .top-section .top-section-content {
     position: relative;
-    z-index: 1;
+    z-index: 3;
 }
 
 .top-section:before {
@@ -47,6 +48,53 @@
         rgba(8, 10, 18, 0.36),
         rgba(8, 10, 18, 0.28)
     );
+    z-index: 1;
+}
+
+#feather-layer {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#feather-layer .feather {
+    position: absolute;
+    top: -12%;
+    left: var(--left);
+    width: var(--size);
+    height: calc(var(--size) * 0.42);
+    border-radius: 80% 20% 70% 30% / 55% 45% 55% 45%;
+    background: radial-gradient(circle at 30% 45%,
+            rgba(255, 255, 255, 0.95) 0%,
+            rgba(255, 255, 255, 0.72) 58%,
+            rgba(255, 255, 255, 0.18) 100%);
+    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.22));
+    transform-origin: 20% 50%;
+    animation:
+        feather-fall var(--duration) linear var(--delay) infinite,
+        feather-float var(--sway-duration) ease-in-out var(--delay) infinite alternate;
+}
+
+@keyframes feather-fall {
+    0% {
+        transform: translate3d(0, -8vh, 0) rotate(-18deg);
+    }
+
+    100% {
+        transform: translate3d(var(--drift), 115vh, 0) rotate(340deg);
+    }
+}
+
+@keyframes feather-float {
+    0% {
+        margin-left: -10px;
+    }
+
+    100% {
+        margin-left: 10px;
+    }
 }
 
 @media screen and (max-width: 768px) {

@@ -18,11 +18,11 @@
     position: relative;
     padding: 10rem 0;
     overflow: hidden;
-    background-position: center 44%;
+    background-position: center 30%;
     background-size: cover;
     background-repeat: no-repeat;
-    height: clamp(20rem, 40vw, 30rem);
-    min-height: 20rem;
+    height: clamp(24rem, 48vw, 36rem);
+    min-height: 24rem;
 }
 
 .top-section h2 {
@@ -51,57 +51,11 @@
     z-index: 1;
 }
 
-#feather-layer {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    overflow: hidden;
-    z-index: 2;
-}
-
-#feather-layer .feather {
-    position: absolute;
-    top: -12%;
-    left: var(--left);
-    width: var(--size);
-    height: calc(var(--size) * 0.42);
-    border-radius: 80% 20% 70% 30% / 55% 45% 55% 45%;
-    background: radial-gradient(circle at 30% 45%,
-            rgba(255, 255, 255, 0.95) 0%,
-            rgba(255, 255, 255, 0.72) 58%,
-            rgba(255, 255, 255, 0.18) 100%);
-    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.22));
-    transform-origin: 20% 50%;
-    animation:
-        feather-fall var(--duration) linear var(--delay) infinite,
-        feather-float var(--sway-duration) ease-in-out var(--delay) infinite alternate;
-}
-
-@keyframes feather-fall {
-    0% {
-        transform: translate3d(0, -8vh, 0) rotate(-18deg);
-    }
-
-    100% {
-        transform: translate3d(var(--drift), 115vh, 0) rotate(340deg);
-    }
-}
-
-@keyframes feather-float {
-    0% {
-        margin-left: -10px;
-    }
-
-    100% {
-        margin-left: 10px;
-    }
-}
-
 @media screen and (max-width: 768px) {
     .top-section {
-        height: clamp(16rem, 62vw, 22rem);
-        min-height: 16rem;
-        background-position: center 40%;
+        height: clamp(18rem, 72vw, 28rem);
+        min-height: 18rem;
+        background-position: center 28%;
     }
 }
 

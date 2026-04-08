@@ -8,7 +8,7 @@
 - Continued research on bilingual document alignment and parallel data curation.
 - Participated in publication and presentation activities in NLP-related venues.
 
-### **Master's Student **
+### **Master's Student**
 **04/2023 – 04/2025 | University of Tsukuba**
 
 - Worked on machine translation, document alignment, and machine reading comprehension.

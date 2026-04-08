@@ -5,14 +5,11 @@
 
 - Conducting research in Natural Language Processing, with a focus on document-level alignment and machine translation.
 
-### **Research Student**
-**04/2025 – 03/2026 | University of Tokyo**
-
 - Continued research on bilingual document alignment and parallel data curation.
 - Participated in publication and presentation activities in NLP-related venues.
 
-### **Master's Student / Research Student**
-**10/2022 – 04/2025 | University of Tsukuba**
+### **Master's Student **
+**04/2023 – 04/2025 | University of Tsukuba**
 
 - Worked on machine translation, document alignment, and machine reading comprehension.
 - Published first-author and co-author papers at international and domestic conferences.

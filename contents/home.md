@@ -6,11 +6,7 @@ Xiaotian Wang (王小天) works on Natural Language Processing.
 #### Education
 **University of Tokyo**, Doctoral Program in NLP (04/2026 – Present)
 
-**University of Tokyo**, Research Student (04/2025 – 03/2026)
-
 **University of Tsukuba**, Master's Degree in NLP (04/2023 – 04/2025)
-
-**University of Tsukuba**, Research Student (10/2022 – 04/2023)
 
 **Xiamen University**, Bachelor of Science in Statistics (09/2017 – 06/2021)
 

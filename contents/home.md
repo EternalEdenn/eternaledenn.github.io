@@ -5,6 +5,7 @@ I am currently a PhD student in the Yanaka Lab at the University of Tokyo. My re
 <a href="https://github.com/EternalEdenn" aria-label="GitHub" target="_blank" rel="noopener noreferrer" style="color:#000;font-size:1.7rem;"><i class="bi bi-github"></i></a>
 
 <h4 style="font-size:1.65rem;">Education</h4>
+
 **University of Tokyo**, Doctoral Program (04/2026 – Present)
 
 **University of Tsukuba**, Master of Engineering (04/2023 – 04/2025)

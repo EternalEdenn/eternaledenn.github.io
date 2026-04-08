@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#000000;
 }
 
 .header {
@@ -15,7 +15,8 @@
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: #ffffff;
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
 }
 
 .top-section {
@@ -68,6 +69,16 @@ section .main-body{
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
+}
+
+a,
+a:hover,
+a:focus,
+.nav-link,
+.nav-link:hover,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #000 !important;
 }
 
 
@@ -142,12 +153,19 @@ section .main-body{
     align-items: center;
     justify-content: center;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    color: #000;
+    text-decoration: none;
 }
 
-#profile-links img {
-    width: 20px;
-    height: 20px;
-    display: block;
+.bg-bottom a,
+.bg-bottom a:hover,
+.bg-bottom .text-white-50 {
+    color: #000 !important;
+}
+
+#profile-links a i {
+    font-size: 16px;
+    line-height: 1;
 }
 
 @media screen and (max-width: 991px) {
@@ -186,8 +204,7 @@ section .main-body{
         height: 30px;
     }
 
-    #profile-links img {
-        width: 18px;
-        height: 18px;
+    #profile-links a i {
+        font-size: 14px;
     }
 }

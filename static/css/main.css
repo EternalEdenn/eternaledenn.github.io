@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#000000;
+    --h-title-color:#1f2937;
 }
 
 .header {
@@ -69,38 +69,31 @@ section .main-body{
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
+    color: #111827;
 }
 
-a,
-a:visited,
-a:hover,
-a:focus,
-a:active,
+body {
+    color: #111827;
+}
+
 .nav-link,
-.nav-link:hover,
 .nav-link:visited,
-.navbar-brand,
-.navbar-brand:hover {
-    color: #000 !important;
+.navbar-brand {
+    color: #111827 !important;
 }
 
-body,
-p,
-li,
-span,
-strong,
-em,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.main-body,
-section .main-body,
+.nav-link:hover,
+.navbar-brand:hover {
+    color: #374151 !important;
+}
+
 section .main-body a,
 section .main-body a:visited {
-    color: #000 !important;
+    color: #1f2937 !important;
+}
+
+section .main-body a:hover {
+    color: #4b5563 !important;
 }
 
 
@@ -161,13 +154,13 @@ section .main-body a:visited {
     transform: translateX(-50%);
     z-index: 4;
     display: flex;
-    gap: 10px;
+    gap: 9px;
     align-items: center;
 }
 
 #profile-links a {
-    width: 34px;
-    height: 34px;
+    width: 32px;
+    height: 32px;
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.92);
     border: 1px solid rgba(0, 0, 0, 0.08);
@@ -177,6 +170,7 @@ section .main-body a:visited {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     color: #000;
     text-decoration: none;
+    overflow: hidden;
 }
 
 .bg-bottom a,
@@ -186,8 +180,11 @@ section .main-body a:visited {
 }
 
 #profile-links img {
-    width: 20px;
-    height: 20px;
+    width: 17px;
+    height: 17px;
+    max-width: 70%;
+    max-height: 70%;
+    object-fit: contain;
     display: block;
 }
 
@@ -219,16 +216,16 @@ section .main-body a:visited {
 
     #profile-links {
         top: calc(73% + 64px);
-        gap: 8px;
+        gap: 7px;
     }
 
     #profile-links a {
-        width: 30px;
-        height: 30px;
+        width: 28px;
+        height: 28px;
     }
 
     #profile-links img {
-        width: 18px;
-        height: 18px;
+        width: 15px;
+        height: 15px;
     }
 }

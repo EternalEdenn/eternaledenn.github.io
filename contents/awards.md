@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Second Prize, Chinese National High School Mathematics League (2016)
+- First Prize in Fujian Province, China Undergraduate Mathematical Contest in Modeling (CUMCM) (09/2019)
+- Honorable Mention, Mathematical Contest in Modeling (MCM) (03/2021)
+- Excellence Award, UFO-2024 Table QA Task (SIG-FIN), UTUtLB25 Team (03/2025)
+- Degree Program Leader Award (学位プログラムリーダー表彰), University of Tsukuba (03/2025)

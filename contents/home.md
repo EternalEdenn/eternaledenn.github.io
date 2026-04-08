@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+Xiaotian Wang (王小天) is a Doctoral Student at the University of Tokyo, working on Natural Language Processing.
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+#### Contact
+<code>wangxiaotian1999@outlook.com</code>
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Education
+**University of Tokyo**, Doctoral Student (04/2026 – Present)
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Tokyo**, Research Student (04/2025 – 03/2026)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**University of Tsukuba**, Master's Degree (04/2023 – 04/2025)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**University of Tsukuba**, Research Student (10/2022 – 04/2023)
 
-#### Research Interests  
-XX, XX, XX, XX.
+**Xiamen University**, Bachelor of Science in Statistics (09/2017 – 06/2021)
+• GPA: 3.60/4.00 (86.04/100)
+
+#### Research Interests
+Machine Translation (MT), Document Alignment, Parallel Data Curation, Machine Reading Comprehension (MRC).

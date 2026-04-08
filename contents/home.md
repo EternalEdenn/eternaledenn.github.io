@@ -1,4 +1,4 @@
-Xiaotian Wang (王小天) works on Natural Language Processing.
+I am currently a PhD student in the Yanaka Lab at the University of Tokyo. My research is mainly related to Machine Translation.
 
 #### Contact
 <a href="mailto:wangxiaotian1999@outlook.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>

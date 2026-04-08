@@ -1,6 +1,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'awards', 'experience', 'publications'];
+const no_cache = { cache: 'no-store' };
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -29,7 +30,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 
     // Yaml
-    fetch(content_dir + config_file)
+    fetch(content_dir + config_file + '?v=' + Date.now(), no_cache)
         .then(response => response.text())
         .then(text => {
             const yml = jsyaml.load(text);
@@ -48,7 +49,7 @@ window.addEventListener('DOMContentLoaded', event => {
     // Marked
     marked.use({ mangle: false, headerIds: false })
     section_names.forEach((name, idx) => {
-        fetch(content_dir + name + '.md')
+        fetch(content_dir + name + '.md' + '?v=' + Date.now(), no_cache)
             .then(response => response.text())
             .then(markdown => {
                 const html = marked.parse(markdown);

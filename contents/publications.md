@@ -4,6 +4,8 @@
 - **Document Alignment based on Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *ACL-SRW*, 2024.
 - **Japanese How-to Tip Machine Reading Comprehension by Multi-task Learning Based on Generative Model**. <u>Xiaotian Wang</u>, Tingxuan Li, Takuya Tamura, Shunsuke Nishida, Fuzhu Zhu, Takehito Utsuro. *TSD*, 2023.
 - **Enhanced Retrieve-Edit-Rerank Framework with kNN-MT**. <u>Xiaotian Wang</u>, Takuya Tamura, Takehito Utsuro, Masaaki Nagata. *PACLIC*, 2023.
+- **Multi-Agent Debate for Machine Translation: A Case Study on English-Japanese Translation**. Zhan Shen, Jason Naradowsky, <u>Xiaotian Wang</u>, Yusuke Miyao. *EAMT*, 2026.
+- **Applying LLMs to Japanese Table Question Answering of Securities Reports**. Long Si, Yin Zhang, <u>Xiaotian Wang</u>, Takehito Utsuro. *IIAI AAI*, 2025.
 - **NTTSU at WMT2024 General Translation Task**. Minato Kondo, Ryo Fukuda, <u>Xiaotian Wang</u>, Katsuki Chousa, Masato Nishimura, Kosei Buma, Takatomo Kano, Takehito Utsuro. *WMT*, 2024.
 - **Target Language Monolingual Translation Memory based NMT by Cross-lingual Retrieval of Similar Translations and Reranking**. Takuya Tamura, <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *MTSummit*, 2023.
 - **Headline Generation for Stock Price Fluctuation Articles**. Shunsuke Nishida, Yuki Zenimoto, <u>Xiaotian Wang</u>, Takuya Tamura, Takehito Utsuro. *FinNLP*, 2023.
@@ -24,6 +26,7 @@
 
 - **Document Alignment based on Overlapping Fixed-Length Segmentation using Optimal Transport**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *AAMT若手翻訳研究会*, 2024.
 - **Parallel Document Alignment considering Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *CJNLP*, 2024.
+- **Developing a Japanese-English Literary Parallel Corpus from Aozora Bunko and Project Gutenberg: AoGu** Guanyu Ouyang, <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *AAMT若手翻訳研究会*, 2025.
 
 ### Journal
 

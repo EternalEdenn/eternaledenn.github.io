@@ -4,6 +4,7 @@
 - **Document Alignment based on Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *ACL-SRW*, 2024.
 - **Japanese How-to Tip Machine Reading Comprehension by Multi-task Learning Based on Generative Model**. <u>Xiaotian Wang</u>, Tingxuan Li, Takuya Tamura, Shunsuke Nishida, Fuzhu Zhu, Takehito Utsuro. *TSD*, 2023.
 - **Enhanced Retrieve-Edit-Rerank Framework with kNN-MT**. <u>Xiaotian Wang</u>, Takuya Tamura, Takehito Utsuro, Masaaki Nagata. *PACLIC*, 2023.
+- **Self-Evolving Optimization of Agentic Systems for Machine Translation**. Zhan Shen, <u>Xiaotian Wang</u>, Jason Naradowsky, Yusuke Miyao. *EMNLP*, 2026.
 - **Multi-Agent Debate for Machine Translation: A Case Study on English-Japanese Translation**. Zhan Shen, Jason Naradowsky, <u>Xiaotian Wang</u>, Yusuke Miyao. *EAMT*, 2026.
 - **Applying LLMs to Japanese Table Question Answering of Securities Reports**. Long Si, Yin Zhang, <u>Xiaotian Wang</u>, Takehito Utsuro. *IIAI AAI*, 2025.
 - **NTTSU at WMT2024 General Translation Task**. Minato Kondo, Ryo Fukuda, <u>Xiaotian Wang</u>, Katsuki Chousa, Masato Nishimura, Kosei Buma, Takatomo Kano, Takehito Utsuro. *WMT*, 2024.

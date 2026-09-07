@@ -13,4 +13,4 @@ I am currently a PhD student in the [Yanaka Lab](https://ylab.mystrikingly.com) 
 **Xiamen University**, Bachelor of Science (09/2017 – 06/2021)
 
 <h4 style="font-size:1.65rem;">Research Interests</h4>
-Machine Translation (MT), Linguistic, Document Alignment, Parallel Data Curation, Reranking, Reasoning, Machine Reading Comprehension.
+Machine Translation (MT), Linguistics, Document Alignment, Interpretability, Parallel Data Curation, Reranking, Reasoning, Machine Reading Comprehension.

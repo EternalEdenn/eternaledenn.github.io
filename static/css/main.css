@@ -138,6 +138,7 @@ section .main-body a:hover {
 .publication-links a:visited {
     display: inline-flex;
     align-items: center;
+    gap: 0.28rem;
     padding: 0.08rem 0.55rem;
     border: 1px solid rgba(74, 63, 56, 0.35);
     border-radius: 999px;
@@ -147,6 +148,11 @@ section .main-body a:hover {
     font-weight: 600;
     line-height: 1.5;
     text-decoration: none;
+}
+
+.publication-links i {
+    font-size: 0.9em;
+    line-height: 1;
 }
 
 .publication-links a:hover {

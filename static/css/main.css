@@ -127,6 +127,33 @@ section .main-body a:hover {
     color: var(--accent-soft) !important;
 }
 
+.publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: 0.2rem 0 0.55rem;
+}
+
+.publication-links a,
+.publication-links a:visited {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.08rem 0.55rem;
+    border: 1px solid rgba(74, 63, 56, 0.35);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.72);
+    color: var(--h-title-color) !important;
+    font-size: 0.78em;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+.publication-links a:hover {
+    background: var(--h-title-color);
+    color: #ffffff !important;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, var(--surface-light), #ffffff) !important;

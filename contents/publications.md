@@ -2,6 +2,7 @@
 
 - **Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking**. <u>Xiaotian Wang</u>, Youyuan Lin, Zhan Shen, Hitomi Yanaka. *WMT*, 2026.
 - **BiMax: Bidirectional MaxSim Score for Document-Level Alignment**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *EMNLP Findings*, 2025.
+  <span class="publication-links"><a href="https://aclanthology.org/2025.findings-emnlp.704/" target="_blank" rel="noopener noreferrer">Paper</a><a href="https://arxiv.org/html/2510.15577v1" target="_blank" rel="noopener noreferrer">arXiv</a><a href="https://github.com/EternalEdenn/EmbDA" target="_blank" rel="noopener noreferrer">GitHub</a></span>
 - **Document Alignment based on Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *ACL-SRW*, 2024.
 - **Japanese How-to Tip Machine Reading Comprehension by Multi-task Learning Based on Generative Model**. <u>Xiaotian Wang</u>, Tingxuan Li, Takuya Tamura, Shunsuke Nishida, Fuzhu Zhu, Takehito Utsuro. *TSD*, 2023.
 - **Enhanced Retrieve-Edit-Rerank Framework with kNN-MT**. <u>Xiaotian Wang</u>, Takuya Tamura, Takehito Utsuro, Masaaki Nagata. *PACLIC*, 2023.

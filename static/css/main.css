@@ -155,6 +155,17 @@ section .main-body a:hover {
     line-height: 1;
 }
 
+.publication-link-icon {
+    width: 0.95em;
+    height: 0.95em;
+    flex: 0 0 auto;
+    object-fit: contain;
+}
+
+.publication-link-icon--acl {
+    width: 1.08em;
+}
+
 .publication-links a:hover {
     background: var(--h-title-color);
     color: #ffffff !important;

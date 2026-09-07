@@ -2,7 +2,7 @@
 
 - **Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking**. <u>Xiaotian Wang</u>, Youyuan Lin, Zhan Shen, Hitomi Yanaka. *WMT*, 2026.
 - **BiMax: Bidirectional MaxSim Score for Document-Level Alignment**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *EMNLP Findings*, 2025.
-  <span class="publication-links"><a href="https://aclanthology.org/2025.findings-emnlp.704/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a><a href="https://arxiv.org/html/2510.15577v1" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon" src="static/assets/icons/arxiv.png" alt="">arXiv</a><a href="https://github.com/EternalEdenn/EmbDA" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a></span>
+  <span class="publication-links"><a href="https://aclanthology.org/2025.findings-emnlp.704/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a><a href="https://arxiv.org/html/2510.15577v1" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon" src="static/assets/icons/arxiv.png" alt="">arXiv</a><a href="https://github.com/EternalEdenn/EmbDA" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a><a href="https://underline.io/lecture/132585-bimax-bidirectional-maxsim-score-for-document-level-alignment" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon" src="static/assets/icons/underline.png" alt="">Underline</a></span>
 - **Document Alignment based on Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *ACL-SRW*, 2024.
   <span class="publication-links"><a href="https://aclanthology.org/2024.acl-srw.10/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a><a href="https://github.com/EternalEdenn/EmbDA" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a></span>
 - **Japanese How-to Tip Machine Reading Comprehension by Multi-task Learning Based on Generative Model**. <u>Xiaotian Wang</u>, Tingxuan Li, Takuya Tamura, Shunsuke Nishida, Fuzhu Zhu, Takehito Utsuro. *TSD*, 2023.
@@ -36,8 +36,10 @@
 ### Domestic Presentation
 
 - **Document Alignment based on Overlapping Fixed-Length Segmentation using Optimal Transport**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *AAMT若手翻訳研究会*, 2024.
+  <span class="publication-links"><a href="https://aamt.info/seminar/856/#:~:text=%288%29Document%20Alignment%20based%20on%20Overlapping%20Fixed%2DLength%20Segments%20using%20Optimal%20Transport" target="_blank" rel="noopener noreferrer"><i class="bi bi-link-45deg" aria-hidden="true"></i>Link</a></span>
 - **Parallel Document Alignment considering Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *CJNLP*, 2024.
 - **Developing a Japanese-English Literary Parallel Corpus from Aozora Bunko and Project Gutenberg: AoGu** Guanyu Ouyang, <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *AAMT若手翻訳研究会*, 2025.
+  <span class="publication-links"><a href="https://aamt.info/seminar/902/#:~:text=Developing%20a%20Japanese%2DEnglish%20Literary%20Parallel%20Corpus%20from%20Aozora%20Bunko%20and%20Project%20Gutenberg%3A%20AoGu" target="_blank" rel="noopener noreferrer"><i class="bi bi-link-45deg" aria-hidden="true"></i>Link</a></span>
 
 ### Journal
 

@@ -1,5 +1,6 @@
 ### International Conference
 
+- **Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking**. <u>Xiaotian Wang</u>, Youyuan Lin, Zhan Shen, Hitomi Yanaka. *WMT*, 2026.
 - **BiMax: Bidirectional MaxSim Score for Document-Level Alignment**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *EMNLP Findings*, 2025.
 - **Document Alignment based on Overlapping Fixed-Length Segments**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *ACL-SRW*, 2024.
 - **Japanese How-to Tip Machine Reading Comprehension by Multi-task Learning Based on Generative Model**. <u>Xiaotian Wang</u>, Tingxuan Li, Takuya Tamura, Shunsuke Nishida, Fuzhu Zhu, Takehito Utsuro. *TSD*, 2023.

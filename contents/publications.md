@@ -11,10 +11,14 @@
   <span class="publication-links"><a href="https://aclanthology.org/2023.paclic-1.47/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a></span>
 - **Self-Evolving Optimization of Agentic Systems for Machine Translation**. Zhan Shen, <u>Xiaotian Wang</u>, Jason Naradowsky, Yusuke Miyao. *EMNLP*, 2026.
 - **Multi-Agent Debate for Machine Translation: A Case Study on English-Japanese Translation**. Zhan Shen, Jason Naradowsky, <u>Xiaotian Wang</u>, Yusuke Miyao. *EAMT*, 2026.
+  <span class="publication-links"><a href="https://aclanthology.org/2026.eamt-1.16/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a><a href="https://github.com/ZhanShenYo/madmt" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a></span>
 - **Applying LLMs to Japanese Table Question Answering of Securities Reports**. Long Si, Yin Zhang, <u>Xiaotian Wang</u>, Takehito Utsuro. *IIAI AAI*, 2025.
 - **NTTSU at WMT2024 General Translation Task**. Minato Kondo, Ryo Fukuda, <u>Xiaotian Wang</u>, Katsuki Chousa, Masato Nishimura, Kosei Buma, Takatomo Kano, Takehito Utsuro. *WMT*, 2024.
+  <span class="publication-links"><a href="https://aclanthology.org/2024.wmt-1.20/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a></span>
 - **Target Language Monolingual Translation Memory based NMT by Cross-lingual Retrieval of Similar Translations and Reranking**. Takuya Tamura, <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *MTSummit*, 2023.
+  <span class="publication-links"><a href="https://aclanthology.org/2023.mtsummit-research.26/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a></span>
 - **Headline Generation for Stock Price Fluctuation Articles**. Shunsuke Nishida, Yuki Zenimoto, <u>Xiaotian Wang</u>, Takuya Tamura, Takehito Utsuro. *FinNLP*, 2023.
+  <span class="publication-links"><a href="https://aclanthology.org/2023.finnlp-2.3/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a></span>
 
 ### Domestic Conference
 

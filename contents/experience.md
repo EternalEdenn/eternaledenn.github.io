@@ -5,6 +5,6 @@
 
 ### Reviewing Experience
 
-- Reviewer, ACL Rolling Review (ARR), March, May, and August 2026
+- Reviewer, ACL Rolling Review (ARR), March, May, August and October 2026
 - Reviewer, WMT, 2025 and 2026
 - Emergency Reviewer, ACL Rolling Review (ARR), 2024

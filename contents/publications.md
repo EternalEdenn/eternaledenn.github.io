@@ -1,6 +1,6 @@
 ### International Conference
 
-- **DUET: Dual-MDL Unsupervised Entropy-Trie Segmentation for Low-Resource Languages**. <u>Xiaotian Wang</u><sup>&#42;</sup>, Youyuan Lin<sup>&#42;</sup>, Zhan Shen, Hitomi Yanaka. *EACL*, 2027. <small>(&#42; Equal Contribution)</small>
+- **DUET: Dual-MDL Unsupervised Entropy-Trie Segmentation for Low-Resource Languages**. <u>Xiaotian Wang</u><sup>𝄞</sup>, Youyuan Lin<sup>𝄞</sup>, Zhan Shen, Hitomi Yanaka. *EACL*, 2027. (𝄞 Equal Contribution)
 - **Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking**. <u>Xiaotian Wang</u>, Youyuan Lin, Zhan Shen, Hitomi Yanaka. *WMT*, 2026.
   <span class="publication-links"><a href="https://aclanthology.org/2026.wmt-main.44/" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon publication-link-icon--acl" src="static/assets/icons/acl-logo.svg" alt="">Paper</a><a href="https://arxiv.org/abs/2609.12674" target="_blank" rel="noopener noreferrer"><img class="publication-link-icon" src="static/assets/icons/arxiv.png" alt="">arXiv</a><a href="https://github.com/ynklab/Doc2FRC" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a></span>
 - **BiMax: Bidirectional MaxSim Score for Document-Level Alignment**. <u>Xiaotian Wang</u>, Takehito Utsuro, Masaaki Nagata. *EMNLP Findings*, 2025.

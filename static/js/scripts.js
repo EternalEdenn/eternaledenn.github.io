@@ -99,7 +99,7 @@ async function loadHobbies() {
                 image.loading = 'lazy';
                 image.decoding = 'async';
                 const caption = document.createElement('figcaption');
-                caption.lang = work.category === 'game' && work.title.startsWith('赤印') ? 'zh-Hans' : 'ja';
+                caption.lang = work.lang || 'ja';
                 if (work.italicPrefix && work.title.startsWith(work.italicPrefix)) {
                     const prefix = document.createElement('i');
                     prefix.textContent = work.italicPrefix;

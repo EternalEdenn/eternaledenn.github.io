@@ -59,6 +59,7 @@
   {
     "category": "game",
     "title": "赤印Plus～不存在的圣诞节～",
+    "lang": "zh-Hans",
     "image": "static/assets/hobbies/crimson.jpg",
     "url": "https://store.steampowered.com/app/740260/",
     "source": "Steam / Hollowings",
@@ -192,6 +193,16 @@
     "url": "https://www.kadokawa.co.jp/product/321407000109/",
     "source": "KADOKAWA",
     "imageSource": "https://cdn.kdkw.jp/cover_1000/321407/321407000109.webp"
+  },
+  {
+    "category": "novel",
+    "title": "龙族",
+    "lang": "zh-Hans",
+    "image": "static/assets/hobbies/dragon-raja.jpg",
+    "artAspectRatio": "376 / 531",
+    "url": "https://book.douban.com/subject/4737329/",
+    "source": "豆瓣读书",
+    "imageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-F39Qt-3jhadOViJU0OA9c1ZS-AnKnLP9rH01CYqLg&s=10"
   },
   {
     "category": "manga",

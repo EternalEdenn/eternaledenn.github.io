@@ -28,7 +28,7 @@
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css?v=20260409-2" rel="stylesheet" />
-    <link type="text/css" href="static/css/main.css?v=20260907-3" rel="stylesheet" />
+    <link type="text/css" href="static/css/main.css?v=20261120-1" rel="stylesheet" />
 
     <!-- Bootstrap core JS-->
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js?v=20260409-2"></script>
@@ -76,7 +76,7 @@
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
     <!-- Core JS-->
-    <script type="text/javascript" src="static/js/scripts.js?v=20260409-2"></script>
+    <script type="text/javascript" src="static/js/scripts.js?v=20261120-1"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js?v=20260409-2"></script>
 
 </head>
@@ -104,6 +104,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#hobbies">HOBBIES</a>
                     </li>
                 </ul>
             </div>
@@ -182,6 +185,27 @@
         </div>
     </section>
     <!-- Awards -->
+
+    <!-- Hobbies -->
+    <section class="bg-gradient-primary-to-secondary-gray" id="hobbies" aria-labelledby="hobbies-subtitle">
+        <div class="container px-5">
+            <header>
+                <h2 id="hobbies-subtitle">HOBBIES</h2>
+                <p class="hobbies-intro">Stories I love, beyond research.</p>
+            </header>
+            <div class="hobby-filters" role="group" aria-label="Filter hobbies">
+                <button type="button" data-hobby-filter="all" aria-pressed="true">All</button>
+                <button type="button" data-hobby-filter="game" aria-pressed="false">Game</button>
+                <button type="button" data-hobby-filter="anime" aria-pressed="false">Anime</button>
+                <button type="button" data-hobby-filter="novel" aria-pressed="false">Novel</button>
+                <button type="button" data-hobby-filter="manga" aria-pressed="false">Manga</button>
+            </div>
+            <p id="hobbies-status" class="visually-hidden" role="status"></p>
+            <div id="hobbies-gallery" aria-busy="true"></div>
+            <p class="hobbies-credit">Artwork belongs to its respective rights holders. Select a work to visit its official site or licensed publisher.</p>
+            <noscript>Please enable JavaScript to view the gallery.</noscript>
+        </div>
+    </section>
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">

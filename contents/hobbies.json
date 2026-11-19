@@ -1,0 +1,229 @@
+[
+  {
+    "category": "game",
+    "title": "eden*",
+    "image": "static/assets/hobbies/eden.jpg",
+    "url": "https://store.steampowered.com/app/315810/",
+    "source": "Steam / MangaGamer",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315810/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "ef-a",
+    "italicPrefix": "ef",
+    "image": "static/assets/hobbies/ef-recollections.jpg",
+    "url": "https://store.steampowered.com/app/1144300/",
+    "source": "Steam / MangaGamer",
+    "imageSource": "https://yande.re/post/show/66732"
+  },
+  {
+    "category": "game",
+    "title": "CLANNAD",
+    "image": "static/assets/hobbies/clannad.jpg",
+    "url": "https://store.steampowered.com/app/324160/",
+    "source": "Steam / Sekai Project",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324160/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "WHITE ALBUM2",
+    "image": "static/assets/hobbies/wa2.jpg",
+    "url": "https://aquaplus.jp/wa2/product.html",
+    "source": "AQUAPLUS",
+    "imageSource": "https://aquaplus.jp/wa2/images/prd/package.jpg"
+  },
+  {
+    "category": "game",
+    "title": "穢翼のユースティア",
+    "image": "static/assets/hobbies/eustia-key-visual.jpg",
+    "url": "https://www.entergram.co.jp/eustia/",
+    "source": "ENTERGRAM",
+    "imageSource": "https://www.famitsu.com/images/000/262/752/z_628f2f55ac4d4.jpg"
+  },
+  {
+    "category": "game",
+    "title": "シュタインズ・ゲート",
+    "image": "static/assets/hobbies/steins-gate.jpg",
+    "url": "https://store.steampowered.com/app/412830/",
+    "source": "Steam / Spike Chunsoft",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412830/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "AIR",
+    "image": "static/assets/hobbies/air.jpg",
+    "url": "https://store.steampowered.com/app/2983250/",
+    "source": "Steam / VISUAL ARTS",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983250/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "赤印Plus～不存在的圣诞节～",
+    "image": "static/assets/hobbies/crimson.jpg",
+    "url": "https://store.steampowered.com/app/740260/",
+    "source": "Steam / Hollowings",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740260/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "planetarian ～ちいさなほしのゆめ～",
+    "image": "static/assets/hobbies/planetarian.jpg",
+    "url": "https://store.steampowered.com/app/623080/",
+    "source": "Steam / VISUAL ARTS",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/623080/library_600x900.jpg"
+  },
+  {
+    "category": "game",
+    "title": "H₂O -FOOTPRINTS IN THE SAND-",
+    "image": "static/assets/hobbies/h2o-artbook.jpg",
+    "url": "https://www.makura-soft.com/h2o/",
+    "source": "枕",
+    "imageSource": "https://yande.re/post/show/8574",
+    "artAspectRatio": "1967 / 2711"
+  },
+  {
+    "category": "anime",
+    "title": "ギルティクラウン",
+    "image": "static/assets/hobbies/guilty-crown-key-visual.jpg",
+    "titleArt": "static/assets/hobbies/guilty-crown-title.png",
+    "titlePlacement": "overlay",
+    "url": "https://www.aniplex.co.jp/lineup/guiltycrown/",
+    "source": "アニプレックス",
+    "imageSource": "https://www.aniplex.co.jp/SYS/CONTENTS/keyvisual_guiltycrown/w1000",
+    "titleArtSource": "https://guilty-crown.jp/box/assets/img/logo.png"
+  },
+  {
+    "category": "anime",
+    "title": "sola",
+    "image": "static/assets/hobbies/sola.jpg",
+    "url": "https://www.amazon.co.jp/dp/B0039HP7OA",
+    "source": "バンダイビジュアル / Amazon.co.jp",
+    "imageSource": "https://m.media-amazon.com/images/I/710pe5vzqjL._AC_SL1417_.jpg"
+  },
+  {
+    "category": "anime",
+    "title": "コードギアス 反逆のルルーシュ",
+    "image": "static/assets/hobbies/geass.jpg",
+    "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=20029",
+    "source": "dアニメストア",
+    "imageSource": "https://cs1.animestore.docomo.ne.jp/anime/2/00/29/kKix9g/20029_1_d2.jpg?1551174325000",
+    "artPosition": "left center"
+  },
+  {
+    "category": "anime",
+    "title": "新世紀エヴァンゲリオン",
+    "image": "static/assets/hobbies/eva-unit01.jpg",
+    "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=10207",
+    "source": "dアニメストア",
+    "imageSource": "https://ogre.natalie.mu/media/news/comic/2025/0618/eva_visual.jpg",
+    "titleArtSource": "https://www.animax.co.jp/storage/news/jdYT74Rbs8ak2SMw12x96uZni6scHON0nQhj2bWL.jpg",
+    "artAspectRatio": "914 / 1328"
+  },
+  {
+    "category": "anime",
+    "title": "Myself ; Yourself",
+    "image": "static/assets/hobbies/myself-yourself-vol1.jpg",
+    "url": "https://www.marv.jp/special/anime-myyour/item/index.html",
+    "source": "マーベラス",
+    "imageSource": "https://static.zerochan.net/Myself%3B.Yourself.full.271941.jpg"
+  },
+  {
+    "category": "anime",
+    "title": "true tears",
+    "image": "static/assets/hobbies/true-tears-autumn.jpg",
+    "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=22331",
+    "source": "dアニメストア",
+    "imageSource": "https://yande.re/post/show/506150"
+  },
+  {
+    "category": "anime",
+    "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "image": "static/assets/hobbies/bunny-aquarium.jpg",
+    "titleArt": "static/assets/hobbies/bunny-title.png",
+    "url": "https://ao-buta.com/tv/",
+    "source": "青ブタ official website",
+    "imageSource": "https://ao-buta.com/tv/assets/img/special/in/img_KV_02.jpg",
+    "titleArtSource": "https://ao-buta.com/assets/img/logo_bunny.png"
+  },
+  {
+    "category": "anime",
+    "title": "黄昏乙女×アムネジア",
+    "image": "static/assets/hobbies/amnesia-twilight.webp",
+    "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=11403",
+    "source": "dアニメストア",
+    "imageSource": "https://images.squarespace-cdn.com/content/v1/640cef1d62cc943077ea70b8/1761268525247-42F1X32Y7TGCGWBHB2SR/Dusk%2BMaiden.jpg"
+  },
+  {
+    "category": "anime",
+    "title": "僕だけがいない街",
+    "image": "static/assets/hobbies/erased.jpg",
+    "url": "https://www.aniplex.co.jp/lineup/bokumachi/",
+    "source": "アニプレックス",
+    "imageSource": "https://www.aniplex.co.jp/SYS/CONTENTS/keyvisual_bokumachi/w1000"
+  },
+  {
+    "category": "anime",
+    "title": "寄生獣 セイの格率",
+    "image": "static/assets/hobbies/parasyte.jpg",
+    "url": "https://www.ntv.co.jp/kiseiju/",
+    "source": "日本テレビ",
+    "imageSource": "https://ogre.natalie.mu/media/news/comic/2014/0729/kiseiju_key_fin_0707.jpg"
+  },
+  {
+    "category": "novel",
+    "title": "GOSICK ―ゴシック―",
+    "image": "static/assets/hobbies/gosick.jpg",
+    "url": "https://www.kadokawa.co.jp/product/200905000136/",
+    "source": "KADOKAWA",
+    "imageSource": "https://cdn.kdkw.jp/cover_1000/200905/200905000136.webp"
+  },
+  {
+    "category": "novel",
+    "title": "BEATLESS",
+    "image": "static/assets/hobbies/beatless.webp",
+    "url": "https://www.kadokawa.co.jp/product/321206000113/",
+    "source": "KADOKAWA",
+    "imageSource": "https://cdn.kdkw.jp/cover_1000/321206/321206000113.webp"
+  },
+  {
+    "category": "novel",
+    "title": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
+    "image": "static/assets/hobbies/sukasuka-vol1.webp",
+    "url": "https://www.kadokawa.co.jp/product/321407000109/",
+    "source": "KADOKAWA",
+    "imageSource": "https://cdn.kdkw.jp/cover_1000/321407/321407000109.webp"
+  },
+  {
+    "category": "manga",
+    "title": "絶園のテンペスト",
+    "image": "static/assets/hobbies/tempest-vol1.jpg",
+    "url": "https://magazine.jp.square-enix.com/gangan/introduction/zetsuennotempest/index.html",
+    "source": "月刊少年ガンガン / SQUARE ENIX",
+    "imageSource": "https://m.media-amazon.com/images/I/81SP0v7lOML.jpg",
+    "artAspectRatio": "900 / 1396"
+  },
+  {
+    "category": "manga",
+    "title": "メイドインアビス",
+    "image": "static/assets/hobbies/abyss.jpg",
+    "url": "https://miabyss.com/movie/comics.html",
+    "source": "メイドインアビス公式サイト・原作コミックス",
+    "imageSource": "https://miabyss.com/images/teaser/book/j_001.jpg"
+  },
+  {
+    "category": "manga",
+    "title": "進撃の巨人",
+    "image": "static/assets/hobbies/titan.jpg",
+    "url": "https://www.kodansha.co.jp/comic/products/0000017064",
+    "source": "講談社",
+    "imageSource": "https://dvs-cover.kodansha.co.jp/0000017064/qLLMwJdlqPdbWsGu48rCYwKGmqTQevk4XcM1yTlp.jpg"
+  },
+  {
+    "category": "manga",
+    "title": "Another",
+    "image": "static/assets/hobbies/another.webp",
+    "url": "https://www.kadokawa.co.jp/product/201005000029/",
+    "source": "KADOKAWA",
+    "imageSource": "https://cdn.kdkw.jp/cover_1000/201005/201005000029.webp"
+  }
+]

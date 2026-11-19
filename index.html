@@ -28,7 +28,7 @@
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css?v=20260409-2" rel="stylesheet" />
-    <link type="text/css" href="static/css/main.css?v=20261120-1" rel="stylesheet" />
+    <link type="text/css" href="static/css/main.css?v=20261120-2" rel="stylesheet" />
 
     <!-- Bootstrap core JS-->
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js?v=20260409-2"></script>
@@ -189,17 +189,20 @@
     <!-- Hobbies -->
     <section class="bg-gradient-primary-to-secondary-gray" id="hobbies" aria-labelledby="hobbies-subtitle">
         <div class="container px-5">
-            <header>
-                <h2 id="hobbies-subtitle">HOBBIES</h2>
-                <p class="hobbies-intro">Stories I love, beyond research.</p>
+            <header class="hobbies-heading">
+                <div class="hobbies-heading-text">
+                    <h2 id="hobbies-subtitle">HOBBIES</h2>
+                    <p class="hobbies-intro">Stories I love, beyond research.</p>
+                </div>
+                <img class="hobbies-portrait" src="static/assets/img/yuuko-sketch.jpg" alt="Pencil portrait of Yuuko Amamiya" width="618" height="447" loading="lazy">
+                <div class="hobby-filters" role="group" aria-label="Filter hobbies">
+                    <button type="button" data-hobby-filter="all" aria-pressed="true">All</button>
+                    <button type="button" data-hobby-filter="game" aria-pressed="false">Game</button>
+                    <button type="button" data-hobby-filter="anime" aria-pressed="false">Anime</button>
+                    <button type="button" data-hobby-filter="novel" aria-pressed="false">Novel</button>
+                    <button type="button" data-hobby-filter="manga" aria-pressed="false">Manga</button>
+                </div>
             </header>
-            <div class="hobby-filters" role="group" aria-label="Filter hobbies">
-                <button type="button" data-hobby-filter="all" aria-pressed="true">All</button>
-                <button type="button" data-hobby-filter="game" aria-pressed="false">Game</button>
-                <button type="button" data-hobby-filter="anime" aria-pressed="false">Anime</button>
-                <button type="button" data-hobby-filter="novel" aria-pressed="false">Novel</button>
-                <button type="button" data-hobby-filter="manga" aria-pressed="false">Manga</button>
-            </div>
             <p id="hobbies-status" class="visually-hidden" role="status"></p>
             <div id="hobbies-gallery" aria-busy="true"></div>
             <p class="hobbies-credit">Artwork belongs to its respective rights holders. Select a work to visit its official site or licensed publisher.</p>

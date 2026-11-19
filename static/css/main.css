@@ -170,6 +170,29 @@ section .main-body a:hover {
     scroll-margin-top: 5rem;
 }
 
+.hobbies-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+    grid-template-areas: "intro portrait" "filters portrait";
+    column-gap: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.hobbies-heading-text {
+    grid-area: intro;
+    align-self: end;
+}
+
+.hobbies-portrait {
+    grid-area: portrait;
+    place-self: center;
+    width: min(100%, 22rem);
+    height: auto;
+    mix-blend-mode: multiply;
+    filter: grayscale(1) contrast(1.08);
+    mask-image: radial-gradient(ellipse closest-side at center, #000 62%, transparent 100%);
+}
+
 .hobbies-intro {
     color: var(--muted-color);
     font-size: 1.1rem;
@@ -177,10 +200,11 @@ section .main-body a:hover {
 }
 
 .hobby-filters {
+    grid-area: filters;
+    align-self: start;
     display: flex;
     flex-wrap: wrap;
     gap: 0.6rem;
-    margin-bottom: 2.5rem;
 }
 
 .hobby-filters button {
@@ -316,6 +340,12 @@ section .main-body a:hover {
 }
 
 @media (max-width: 575px) {
+    .hobbies-heading {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 34%);
+        grid-template-areas: "intro portrait" "filters filters";
+        gap: 1rem 0.5rem;
+    }
+    .hobbies-intro { margin-bottom: 0; }
     .hobby-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem 0.85rem; }
     #hobbies .container { padding-left: 1.5rem !important; padding-right: 1.5rem !important; }
 }

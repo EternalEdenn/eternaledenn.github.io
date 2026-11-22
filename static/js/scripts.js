@@ -70,9 +70,10 @@ async function loadHobbies() {
         const response = await fetch(content_dir + 'hobbies.json?v=' + Date.now(), no_cache);
         if (!response.ok) throw new Error('Could not load hobbies');
         const works = await response.json();
-        const categories = { game: 'Game', anime: 'Anime', novel: 'Novel', manga: 'Manga', jpop: 'J-POP' };
+        const categories = { game: 'Game', anime: 'Anime', novel: 'Novel', manga: 'Manga', jpop: 'J-POP', cpop: 'C-POP' };
 
         Object.entries(categories).forEach(([category, label]) => {
+            const isMusic = category === 'jpop' || category === 'cpop';
             const group = document.createElement('div');
             group.className = 'hobby-group';
             group.dataset.category = category;
@@ -91,17 +92,18 @@ async function loadHobbies() {
                 link.title = work.title + ' — ' + work.source + ' (opens in a new tab)';
                 const art = document.createElement('div');
                 art.className = 'hobby-art';
-                if (category === 'jpop') art.style.aspectRatio = '1 / 1';
+                if (isMusic) art.style.aspectRatio = '1 / 1';
                 else if (work.artAspectRatio) art.style.aspectRatio = work.artAspectRatio;
                 const image = document.createElement('img');
                 image.src = work.image;
                 if (work.artPosition) image.style.objectPosition = work.artPosition;
+                if (work.artScale) image.style.transform = `scale(${work.artScale})`;
                 image.alt = work.title + ' — official artwork';
                 image.loading = 'lazy';
                 image.decoding = 'async';
                 const caption = document.createElement('figcaption');
                 caption.lang = work.lang || 'ja';
-                if (category === 'jpop') {
+                if (isMusic) {
                     link.title = `${work.title} — ${work.album} (opens in a new tab)`;
                     image.alt = `${work.album} — album cover for ${work.title}`;
                     caption.textContent = work.title;

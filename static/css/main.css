@@ -183,6 +183,19 @@ section .main-body a:hover {
     align-self: end;
 }
 
+#hobbies-subtitle {
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+}
+
+.hobbies-emblem {
+    width: 1.2em;
+    height: auto;
+    mix-blend-mode: multiply;
+    filter: grayscale(1) contrast(1.15);
+}
+
 .hobbies-portrait {
     grid-area: portrait;
     place-self: center;
@@ -340,6 +353,7 @@ section .main-body a:hover {
 }
 
 @media (max-width: 575px) {
+    #hobbies-subtitle { font-size: min(2.3rem, 8vw); }
     .hobbies-heading {
         grid-template-columns: minmax(0, 1fr) minmax(0, 34%);
         grid-template-areas: "intro portrait" "filters filters";

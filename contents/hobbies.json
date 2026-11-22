@@ -278,5 +278,155 @@
     "url": "https://www.kadokawa.co.jp/product/201005000029/",
     "source": "KADOKAWA",
     "imageSource": "https://cdn.kdkw.jp/cover_1000/201005/201005000029.webp"
+  },
+  {
+    "category": "jpop",
+    "title": "鳥の詩",
+    "artist": "Lia",
+    "album": "AIR ORIGINAL SOUNDTRACK",
+    "image": "static/assets/hobbies/jpop/tori-no-uta.jpg",
+    "url": "https://music.apple.com/jp/album/818439884?i=818439887",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e4/69/aa/e469aafe-5d04-469f-7bd3-cb7853b28dbb/4933032002475_cover.png/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "Answer",
+    "artist": "冬馬かずさ",
+    "album": "WHITE ALBUM2 Original Soundtrack ~kazusa~",
+    "image": "static/assets/hobbies/jpop/answer.jpg",
+    "url": "https://music.apple.com/jp/album/1378161849?i=1378162426",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/72/dd/8f72ddb4-7fbb-a271-2b7d-1221e101c081/4538182754290_cov.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "ISI",
+    "artist": "Duca",
+    "album": "うたてめぐり オリジナルサウンドトラック",
+    "image": "static/assets/hobbies/jpop/isi.jpg",
+    "url": "https://musicbrainz.org/release/6818dbde-dec7-45a9-af00-c3361d9bb0cc",
+    "source": "MusicBrainz",
+    "imageSource": "https://coverartarchive.org/release/6818dbde-dec7-45a9-af00-c3361d9bb0cc/36892295387-500.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "late in autumn",
+    "artist": "fripSide",
+    "album": "only my railgun",
+    "image": "static/assets/hobbies/jpop/late-in-autumn.jpg",
+    "url": "https://music.apple.com/jp/album/1804664400?i=1804664591",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/60/52/38605250-190a-edeb-5439-2710686db617/5021732653086.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "Planetes",
+    "artist": "EGOIST",
+    "album": "Extra terrestrial Biological Entities",
+    "image": "static/assets/hobbies/jpop/planetes.jpg",
+    "url": "https://music.apple.com/jp/album/1537442937?i=1537443278",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/2b/6c/092b6c1e-d6d0-14ac-fdb8-60194bab04cf/jacket_SRCL08093B00Z_550.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "小さなてのひら",
+    "artist": "riya",
+    "album": "CLANNAD Original SoundTrack",
+    "image": "static/assets/hobbies/jpop/chiisana-tenohira.jpg",
+    "url": "https://music.apple.com/jp/album/823583025?i=823583274",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1a/55/22/1a5522f9-3bad-f99d-f64e-96a390ade9a3/4933032003335_cover.png/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "雨のち想い出",
+    "artist": "メモオフ1st＆2ndメンバー",
+    "album": "Memories Off 10th Anniversary PERFECT VOCAL COLLECTION",
+    "image": "static/assets/hobbies/jpop/ame-nochi-omoide.jpg",
+    "url": "https://memoriesoff.jp/pvc/",
+    "source": "Memories Off 公式サイト",
+    "imageSource": "https://memoriesoff.jp/pvc/img/pvc_pic1.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "悪魔の子",
+    "artist": "ヒグチアイ",
+    "album": "悪魔の子",
+    "image": "static/assets/hobbies/jpop/akuma-no-ko-risu.jpg",
+    "url": "https://music.apple.com/jp/album/1601391183?i=1601391184",
+    "source": "Apple Music",
+    "imageSource": "https://i1.sndcdn.com/artworks-M8VyLJlNiy6FOX45-o6SUpw-original.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "Close My Eyes",
+    "artist": "Ami Fujisaki",
+    "album": "穢翼のユースティア (ORIGINAL SOUND TRACK)",
+    "image": "static/assets/hobbies/jpop/eustia-ost.jpg",
+    "url": "https://music.apple.com/jp/album/906371112?i=906371237",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/f6/7c/76/f67c76cb-032a-858a-e3b8-d7268a9f4006/dj.jfapjcfi.jpg/3000x3000bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "二千年... 若しくは... 二万年後の君へ・・・",
+    "artist": "Linked Horizon",
+    "album": "二千年... 若しくは... 二万年後の君へ・・・",
+    "image": "static/assets/hobbies/jpop/linked-horizon-nimannengo.jpg",
+    "url": "https://music.apple.com/jp/album/1714399138?i=1714399139",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/71/4e/7f714ea8-5fec-7d3f-fc94-3de8d10526d4/PCSP_05457.jpg/1600x1600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "明日世界が終わるなら",
+    "artist": "中島美嘉",
+    "album": "明日世界が終わるなら",
+    "image": "static/assets/hobbies/jpop/ashita-sekai-ga-owaru-nara.jpg",
+    "url": "https://music.apple.com/jp/album/1535526961?i=1535526962",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/92/1e/59921ed5-f5a0-12c5-e4a7-6b12cec16c0c/jacket_AICL02422B00Z_550.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "サヨナラまた...。",
+    "artist": "菅原紗由理",
+    "album": "Close To You",
+    "image": "static/assets/hobbies/jpop/sayonara-mata.jpg",
+    "url": "https://music.apple.com/jp/album/407476009?i=407476040",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/e5/aa/mzi.zzlstinj.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "if",
+    "artist": "西野カナ",
+    "album": "if",
+    "image": "static/assets/hobbies/jpop/if.jpg",
+    "url": "https://music.apple.com/jp/album/1537240848?i=1537240849",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/07/23/66072364-4a19-9389-c17a-55e595c91b9e/jacket_SECL00891B00Z_550.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "恋に恋して",
+    "artist": "倉木麻衣",
+    "album": "恋に恋して/Special morning day to you",
+    "image": "static/assets/hobbies/jpop/koi-ni-koishite.jpg",
+    "url": "https://music.apple.com/jp/album/547177885?i=547177886",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/b7/95/88b79580-95a9-c0b2-a0cf-62657d5245a8/VNCM-6028a.jpg/600x600bb.jpg"
+  },
+  {
+    "category": "jpop",
+    "title": "未来へ",
+    "artist": "Kiroro",
+    "album": "長い間 ~キロロの森~",
+    "image": "static/assets/hobbies/jpop/mirai-e.jpg",
+    "url": "https://music.apple.com/jp/album/119850442?i=119849978",
+    "source": "Apple Music",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/94/71/f5947194-4c7b-c63d-c6b2-1577059fc261/mzi.btcfbxyw.jpg/600x600bb.jpg"
   }
 ]

@@ -70,7 +70,7 @@ async function loadHobbies() {
         const response = await fetch(content_dir + 'hobbies.json?v=' + Date.now(), no_cache);
         if (!response.ok) throw new Error('Could not load hobbies');
         const works = await response.json();
-        const categories = { game: 'Game', anime: 'Anime', novel: 'Novel', manga: 'Manga' };
+        const categories = { game: 'Game', anime: 'Anime', novel: 'Novel', manga: 'Manga', jpop: 'J-POP' };
 
         Object.entries(categories).forEach(([category, label]) => {
             const group = document.createElement('div');
@@ -91,7 +91,8 @@ async function loadHobbies() {
                 link.title = work.title + ' — ' + work.source + ' (opens in a new tab)';
                 const art = document.createElement('div');
                 art.className = 'hobby-art';
-                if (work.artAspectRatio) art.style.aspectRatio = work.artAspectRatio;
+                if (category === 'jpop') art.style.aspectRatio = '1 / 1';
+                else if (work.artAspectRatio) art.style.aspectRatio = work.artAspectRatio;
                 const image = document.createElement('img');
                 image.src = work.image;
                 if (work.artPosition) image.style.objectPosition = work.artPosition;
@@ -100,7 +101,11 @@ async function loadHobbies() {
                 image.decoding = 'async';
                 const caption = document.createElement('figcaption');
                 caption.lang = work.lang || 'ja';
-                if (work.italicPrefix && work.title.startsWith(work.italicPrefix)) {
+                if (category === 'jpop') {
+                    link.title = `${work.title} — ${work.album} (opens in a new tab)`;
+                    image.alt = `${work.album} — album cover for ${work.title}`;
+                    caption.textContent = work.title;
+                } else if (work.italicPrefix && work.title.startsWith(work.italicPrefix)) {
                     const prefix = document.createElement('i');
                     prefix.textContent = work.italicPrefix;
                     caption.append(prefix, work.title.slice(work.italicPrefix.length));

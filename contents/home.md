@@ -3,6 +3,7 @@ I am currently a PhD student in the [Yanaka Lab](https://ylab.mystrikingly.com) 
 <h4 style="font-size:1.65rem;">Contact</h4>
 <a href="mailto:wangxiaotian1999@outlook.com" aria-label="Email" style="color:#000;font-size:1.7rem;margin-right:0.7rem;"><i class="bi bi-envelope-fill"></i></a>
 <a href="https://github.com/EternalEdenn" aria-label="GitHub" target="_blank" rel="noopener noreferrer" style="color:#000;font-size:1.7rem;"><i class="bi bi-github"></i></a>
+<a href="https://www.linkedin.com/in/xiaotian-wang-493a1940b/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer" style="color:#000;font-size:1.7rem;margin-left:0.7rem;"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
 
 <h4 style="font-size:1.65rem;">Education</h4>
 

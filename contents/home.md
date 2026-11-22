@@ -8,7 +8,7 @@ I am currently a PhD student in the [Yanaka Lab](https://ylab.mystrikingly.com) 
 
 **University of Tokyo**, Doctoral Program (04/2026 – Present)
 
-**University of Tsukuba**, Master of Engineering (04/2023 – 04/2025)
+**University of Tsukuba**, Master of Engineering (04/2023 – 03/2025)
 
 **Xiamen University**, Bachelor of Science (09/2017 – 06/2021)
 

@@ -83,6 +83,47 @@
     "artAspectRatio": "1967 / 2711"
   },
   {
+    "category": "game",
+    "title": "メモリーズオフシリーズ",
+    "image": "static/assets/hobbies/memories-off-historia.jpg",
+    "artAspectRatio": "775 / 1000",
+    "url": "https://memoriesoff.jp/historia/",
+    "source": "MAGES.",
+    "imageSource": "https://www.4gamer.net/games/768/G076828/20240201034/SS/001.jpg"
+  },
+  {
+    "category": "game",
+    "title": "ナルキッソス",
+    "image": "static/assets/hobbies/narcissu.jpg",
+    "url": "https://store.steampowered.com/app/264380/",
+    "source": "Steam / Sekai Project",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264380/library_600x900_2x.jpg"
+  },
+  {
+    "category": "game",
+    "title": "EVER 17",
+    "image": "static/assets/hobbies/ever17.jpg",
+    "url": "https://store.steampowered.com/app/2392500/",
+    "source": "Steam / Spike Chunsoft",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2392500/library_600x900_2x.jpg"
+  },
+  {
+    "category": "game",
+    "title": "G線上の魔王",
+    "image": "static/assets/hobbies/g-senjou-no-maou.jpg",
+    "url": "https://store.steampowered.com/app/377670/",
+    "source": "Steam / Sekai Project",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377670/library_600x900_2x.jpg"
+  },
+  {
+    "category": "game",
+    "title": "KANON",
+    "image": "static/assets/hobbies/kanon.jpg",
+    "url": "https://store.steampowered.com/app/2850310/",
+    "source": "Steam / VISUAL ARTS",
+    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850310/library_600x900_2x.jpg"
+  },
+  {
     "category": "anime",
     "title": "ギルティクラウン",
     "image": "static/assets/hobbies/guilty-crown-key-visual.jpg",

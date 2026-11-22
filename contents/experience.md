@@ -5,7 +5,7 @@
 
 ### Reviewing Experience
 
-- Area Chair, WWW Short Paer 2027
+- Area Chair, ACM WWW Short Paer 2027
 - Reviewer, ACL Rolling Review (ARR), March, May, August and October 2026
 - Reviewer, WMT, 2025 and 2026
 - Emergency Reviewer, ACL Rolling Review (ARR), 2024

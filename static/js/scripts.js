@@ -131,19 +131,18 @@ async function loadHobbies() {
         });
 
         const filters = document.querySelectorAll('[data-hobby-filter]');
-        filters.forEach(button => button.addEventListener('click', () => {
+        function showCategory(button) {
             const category = button.dataset.hobbyFilter;
             filters.forEach(filter => filter.setAttribute('aria-pressed', String(filter === button)));
             gallery.querySelectorAll('.hobby-group').forEach(group => {
-                group.hidden = category !== 'all' && group.dataset.category !== category;
+                group.hidden = group.dataset.category !== category;
             });
-            const count = works.filter(work => category === 'all' || work.category === category).length;
+            const count = works.filter(work => work.category === category).length;
             status.textContent = `${count} works displayed`;
             bootstrap.ScrollSpy.getInstance(document.body)?.refresh();
-        }));
-
-        status.textContent = `${works.length} works displayed`;
-        bootstrap.ScrollSpy.getInstance(document.body)?.refresh();
+        }
+        filters.forEach(button => button.addEventListener('click', () => showCategory(button)));
+        showCategory(document.querySelector('[data-hobby-filter][aria-pressed="true"]'));
     } catch (error) {
         status.classList.remove('visually-hidden');
         status.textContent = 'The gallery could not be loaded. Please refresh to try again.';

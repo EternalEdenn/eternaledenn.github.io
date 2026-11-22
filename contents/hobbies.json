@@ -109,11 +109,12 @@
   },
   {
     "category": "game",
-    "title": "G線上の魔王",
-    "image": "static/assets/hobbies/g-senjou-no-maou.jpg",
-    "url": "https://store.steampowered.com/app/377670/",
-    "source": "Steam / Sekai Project",
-    "imageSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377670/library_600x900_2x.jpg"
+    "title": "REWRITE",
+    "image": "static/assets/hobbies/rewrite-plus.jpg",
+    "artAspectRatio": "500 / 715",
+    "url": "https://key.visualarts.co.jp/rewrite/",
+    "source": "Key / VISUAL ARTS",
+    "imageSource": "https://image.getchu.com/brandnew/899542/c899542package.jpg"
   },
   {
     "category": "game",

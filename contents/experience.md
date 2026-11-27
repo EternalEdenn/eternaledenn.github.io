@@ -1,7 +1,8 @@
-### Internship Experience
+### Work Experience
 
-### **Research Intern**
-**08/2023 – 09/2023 | NTT Communication Science Laboratories**
+**06/2026 – Present | RIKEN | Part-time Researcher**
+
+**08/2023 – 09/2023 | NTT Communication Science Laboratories | Research Intern**
 
 ### Reviewing Experience
 
